@@ -1,0 +1,18 @@
+
+#one ,.one{
+    background-color:chartreuse ;
+    height: 100px;
+    padding-left: 10px;
+} 
+#two,.two{
+    background-color: rgb(235, 221, 221);
+    height: 350px;
+    width: 10%; 
+    padding-left: 10px;
+}
+#three, .three{
+    background-color:chartreuse;
+    height: 100px;
+    padding-left: 10px;
+    vertical-align: top;
+}
